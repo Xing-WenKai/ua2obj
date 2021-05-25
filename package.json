@@ -1,0 +1,14 @@
+{
+  "name": "ua2obj",
+  "version": "1.0.0",
+  "description": "将浏览器中的UserAgrent转换为用户设备对象",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ua"
+  ],
+  "author": "Xingwenkai",
+  "license": "ISC"
+}
